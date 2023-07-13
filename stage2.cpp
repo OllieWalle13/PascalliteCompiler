@@ -1,4 +1,4 @@
-// Bryson Magee (81369652), Julio Perez (81386385)
+// Bryson Magee, Julio
 // CS 4301
 // Stage 1
 
